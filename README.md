@@ -3,5 +3,8 @@ By using Union-Find data structure it achieves O(n^2 α(n)) running time complex
 This program use python and pygame.
 
 
-https://user-images.githubusercontent.com/47245335/135714368-8b3ef574-64a2-46e5-98c7-68a6b48de72e.mp4
+
+https://user-images.githubusercontent.com/47245335/135715034-ca7cfdfd-07a6-453f-98bb-8621b30c85e1.mp4
+
+
 
